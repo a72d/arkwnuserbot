@@ -21,7 +21,6 @@ A simple Telegram userbot based on Telethon .
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Sherif-Sami/SherifUserbot)
   
 ## Support
-   <a href="https://t.me/Sherif_Sami"><img src="https://img.shields.io/badge/Developer-open-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    <a href="https://t.me/SherifUserbot"><img src="https://img.shields.io/badge/Channel-open-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration

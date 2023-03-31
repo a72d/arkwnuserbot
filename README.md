@@ -50,6 +50,6 @@ Thanks for using our bot 🇪🇬
 ```
 
 ## Credits
-   - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon library.
-   - To all devs of these [Userbots](https://github.com/Sherif-Sami/SherifUserbot/tree/bugs#inspiration)
-   - Finally to all [contributors of SherifUserbot](https://github.com/Sherif-Sami/SherifUserbot/graphs/contributors)
+   - Sherif [@Sherif_Sami](https://t.me/Sherif_Sami)
+   - Mahmoud [@BlIJJ](https://t.me/BlIJJ)
+   - Youssef [@php_d](https://t.me/php_d)

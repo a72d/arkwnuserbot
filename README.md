@@ -2,7 +2,7 @@
 A simple Telegram userbot based on Telethon .
 ![SherifUserbot logo](https://graph.org/file/734174a92902b2744e5d2.jpg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2FSherifUserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Sherif-Sami/SherifUserbot)
-[![CodeFactor](https://www.codefactor.io/repository/github/Sherif-Sami/SherifUserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/Sherif-Sami/SherifUserbot)
+[![CodeFactor](https://www.codefactor.io/repository/github/TgCatUB/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/Sherif-Sami/SherifUserbot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/Sherif-Sami/SherifUserbot/graphs/commit-activity) 
 ![Repo Size](https://img.shields.io/github/repo-size/Sherif-Sami/SherifUserbot?&style=flat-square&logo=github)
@@ -17,18 +17,16 @@ A simple Telegram userbot based on Telethon .
 
 
 
-## How to deploy SherifUserbot
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Sherif-Sami/SherifUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Sherif-Sami/SherifUserbot)
   
 ## Support
-   <a href="https://t.me/SherifUserbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/About_Sherif"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/Sherif_Sami"><img src="https://img.shields.io/badge/Developer-open-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/SherifUserbot"><img src="https://img.shields.io/badge/Channel-open-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
    - [Uniborg](https://github.com/SpEcHiDe/UniBorg) & [Uniborg fork](https://github.com/ravana69/PornHub)
-   - Nana-Remix
    - [Userge-X](https://github.com/code-rgb/USERGE-X/)
    
 ## Disclaimer

@@ -16,15 +16,15 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "Get this value from my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "Get this value from my.telegram.org",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 stringsetup.py locally or https://generatestringsession.sandeep1709.repl.run",
+      "description": "Get this value from @SessionStringGeneratorZBot",
       "value": ""
     },
     "TG_BOT_TOKEN": {
@@ -42,18 +42,18 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
+      "description": "Get this value from https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "YOUR app name ",
+      "description": "Your app name ",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "description": "Get this value from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "value": "Africa/Cairo",
       "required": false
     },
     "EXTERNAL_REPO": {
@@ -63,7 +63,7 @@
     },
     "BADCAT": {
       "description": "set 'True' to install 18+ plugins.",
-      "value": "False",
+      "value": "True",
       "required": false
     }
   },

@@ -1,13 +1,13 @@
 {
-  "name": "CatUserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
+  "name": "SherifUserbot",
+  "description": "A simple Telegram userbot based on Telethon . Maintained by Sherif Sami ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Sherif-Hacker/userbot",
+  "repository": "https://github.com/Sherif-Sami/SherifUserbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {

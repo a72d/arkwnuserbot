@@ -1,4 +1,4 @@
-# SherifUserbot
+# arkwnUserbot
 A simple Telegram userbot based on Telethon .
 ![SherifUserbot logo](https://telegra.ph/file/f3b760e4a99340d331f9b.jpg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2FSherifUserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Sherif-Sami/SherifUserbot)
@@ -21,7 +21,7 @@ A simple Telegram userbot based on Telethon .
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Sherif-Sami/SherifUserbot)
   
 ## Support
-   <a href="https://t.me/SherifUserbot"><img src="https://img.shields.io/badge/Channel-open-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/fvu_9"><img src="https://img.shields.io/badge/Channel-open-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
@@ -33,7 +33,7 @@ A simple Telegram userbot based on Telethon .
 ```
               YOU ARE FOREWARNED
 Your Telegram account may get banned.   
-SherifUserbot or we are not responsible for your account, 
+arkwnUserbot or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -45,10 +45,8 @@ No personal support will be provided / We won't spoon feed you.
 If you need help ask in our support group 
 and we or our friends will try to help you.
 
-Thanks for using our bot 🇪🇬
-```
+Thanks for using our bot ❤️😌
 
 ## Credits
-   - Sherif [@Sherif_Sami](https://t.me/Sherif_Sami)
-   - Mahmoud [@BlIJJ](https://t.me/BlIJJ)
-   - Youssef [@php_d](https://t.me/php_d)
+   - marim [@fvu_2](https://t.me/fvu_2)
+   - arkwn [@je6_n] (https://t.me/je6_n)

@@ -1,5 +1,5 @@
 {
-  "name": "SherifUserbot",
+  "name": "ArkwnUserbot",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sherif Sami ",
   "logo": "https://graph.org/file/c4a3cf54a1793b8af3f48.jpg",
   "keywords": [
@@ -16,53 +16,53 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from my.telegram.org",
+      "description": "جيبه من my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org",
+      "description": " جيبه من my.telegram.org",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value from @SessionStringGeneratorZBot",
+      "description": "اخذه من هذا البوت  @SessionStringGeneratorZBot",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.",
+      "description": "سوي بوت من بوت فاذر http://telegram.dog/BotFather and get the token of your bot.",
       "value": ""
     },
     "COMMAND_HAND_LER": {
-      "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
+      "description": "نقطه الاوامر الافضل لا تغيره ",
       "value": ".",
       "required": false
     },
     "ENV": {
-      "description": "Setting this to ANYTHING will enable heroku.",
+      "description": "لا تغريها .",
       "value": "ANYTHING",
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "Get this value from https://dashboard.heroku.com/account",
+      "description": "جيبه من https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "Your app name ",
+      "description": "اسم تطبيقك فوك بامرف سمول  ",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "Get this value from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Africa/Cairo",
+      "description": "خله نفسه او جيبه من http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "value": "Asia/Baghdad",
       "required": false
     },
     "EXTERNAL_REPO": {
-      "description": "To install external plugins. if you don't want, change value to 'False'",
+      "description": "تركه نفسه ",
       "value": "True",
       "required": false
     },
     "BADCAT": {
-      "description": "set 'True' to install 18+ plugins.",
+      "description": " اذا كنت +18 خليه نفسه او سوية False",
       "value": "True",
       "required": false
     }
